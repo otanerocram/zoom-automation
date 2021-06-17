@@ -17,7 +17,7 @@ git clone https://github.com/Envoy-VC/zoom-automation
 * cd into the directory
 * Install required libraries
 ```
-pip3 install pandas
+pip install pandas
 ```
 
 * Update the timings.csv with the time of the meeting, meeting id and password, do not add any unnecessary spaces. (Do not open the csv using excel as it changes the formatting)
