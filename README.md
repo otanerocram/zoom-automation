@@ -1,6 +1,6 @@
 # Zoom-Automation-Python
 
-![GitHub code size]https://img.shields.io/github/languages/code-size/Envoy-VC/zoom-automation)
+![GitHub code size](https://img.shields.io/github/languages/code-size/Envoy-VC/zoom-automation)
 ![GitHub repo stars](https://img.shields.io/github/stars/Envoy-VC/zoom-automation?style=social)
 ![GitHub repo forks](https://img.shields.io/github/forks/Envoy-VC/zoom-automation?style=social)
 
